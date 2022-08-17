@@ -9,11 +9,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaysGorska&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-<div style="display: inline_block" >
-  <img align="center" alt="Muca-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Muca-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">
-</div>
-
 ##
 
 <div> 
